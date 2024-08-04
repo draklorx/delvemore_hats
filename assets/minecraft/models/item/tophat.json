@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "item/hats/cohat",
 		"1": "item/hats/cohat_feather",
-		"particle": "item/hats/hat"
+		"particle": "item/hats/cohat"
 	},
 	"elements": [
 		{
