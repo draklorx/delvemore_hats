@@ -27,6 +27,10 @@
     { "predicate": { "custom_model_data": 24 }, "model": "item/straw_hat" },
     { "predicate": { "custom_model_data": 25 }, "model": "item/tophat" },
     { "predicate": { "custom_model_data": 26 }, "model": "item/witch_hat" },
-    { "predicate": { "custom_model_data": 27 }, "model": "item/wizard_hat_green" }
+    { "predicate": { "custom_model_data": 27 }, "model": "item/wizard_hat_green" },
+    { "predicate": { "custom_model_data": 28 }, "model": "item/antenna" },
+    { "predicate": { "custom_model_data": 29 }, "model": "item/flower" },
+    { "predicate": { "custom_model_data": 30 }, "model": "item/rainbow" },
+    { "predicate": { "custom_model_data": 31 }, "model": "item/tech" }
   ]
 }
